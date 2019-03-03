@@ -1,0 +1,83 @@
+main{
+  box-sizing: border-box;
+  width: 1280px;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #00bcd4;
+  height: 1200px;
+}
+
+img{
+  height: 35px;
+  margin-top: 10px;
+}
+
+.submit{
+  padding: 15px;
+  border: 2px;
+  height: 55px;
+  width: 286px;
+  background-color: #aed581;
+  color: white;
+  font-size: 32px;
+
+  margin-top: 10px;
+  font: Georgia;
+  font-weight: 300;
+}
+
+.pageName{
+  font-size: 32px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 100;
+  margin: 10px;
+}
+.submit:hover{
+  background-color: green;
+}
+
+input{
+  width: 286px;
+  height: 21px;
+  border: 2px;
+  padding: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+
+.signup{
+  width: 320px;
+  padding: 40px;
+  height: 320px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border: 0px;
+  font-weight: 100;
+}
+
+.forgot{
+  text-align: center;
+  margin-top: 10px;
+  color: black;
+}
+
+.forgotText{
+  text-align: center;
+}
+
+.login{
+  color: white;
+}
+.account{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+a:hover{
+  color: green;
+}
